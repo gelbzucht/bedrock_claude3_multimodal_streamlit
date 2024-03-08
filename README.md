@@ -2,11 +2,6 @@
 
 This repository contains a Streamlit application that demonstrates the capabilities of Anthropic's Claude Sonnet V3 model via the AWS Bedrock API. The app supports multimodal interactions, allowing users to engage in a conversation with the model using both text and images.
 The focus of this application is to serve as a feasability demonstration and a possible starting point for others to develop it further/ build on it/improve code quality etc.   
-![Video Description](demo_video.mp4)
-<video controls>
-  <source src="demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ![Screenshot](screenshot.png)
 

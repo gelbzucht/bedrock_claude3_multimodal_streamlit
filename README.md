@@ -5,7 +5,7 @@ The focus of this application is to serve as a feasability demonstration and a p
 
 [Demo Video](demo_video.mp4)
 
-<video src='demo_video.mp4' />
+<video src='demo_video.mp4'/>
 
 ![Screenshot](screenshot.png)
 
